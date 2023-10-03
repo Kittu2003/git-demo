@@ -1,2 +1,3 @@
 # git-demo
-firstdit prog
+first git prog
+another changes 
